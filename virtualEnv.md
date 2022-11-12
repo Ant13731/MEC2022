@@ -1,0 +1,1 @@
+From this folder, run `$ source <venv>/bin/activate`
